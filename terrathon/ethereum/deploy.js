@@ -3,9 +3,9 @@ const Web3 = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "since below music stomach unable hire vocal sand actress draft open loop",
+  "secret words",
   // remember to change this to your own phrase!
-  "https://goerli.infura.io/v3/586720110cfb4ee5a4e24308ec6016c5"
+  "https://goerli.infura.io/v3/your_id"
   
   // remember to change this to your own endpoint!
 );
